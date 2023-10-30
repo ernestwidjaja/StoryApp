@@ -1,0 +1,21 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyStoryApp" parent="Theme.Material3.DayNight">
+        <item name="colorPrimary">@color/brown_3</item>
+        <item name="colorOnPrimary">@color/brown_1</item>
+        <item name="colorPrimaryContainer">@color/brown_2</item>
+        <item name="colorOnPrimaryContainer">@color/brown_3</item>
+
+        <item name="colorSecondary">@color/brown_2</item>
+        <item name="colorOnSecondary">@color/brown_4</item>
+        <item name="colorSecondaryContainer">@color/brown_1</item>
+        <item name="colorOnSecondaryContainer">@color/brown_4</item>
+
+        <item name="android:windowActivityTransitions">true</item>
+        <item name="android:windowEnterTransition">@android:transition/slide_bottom</item>
+        <item name="android:windowExitTransition">@android:transition/slide_bottom</item>
+    </style>
+
+    <style name="Theme.MyStoryApp" parent="Base.Theme.MyStoryApp" />
+
+</resources>

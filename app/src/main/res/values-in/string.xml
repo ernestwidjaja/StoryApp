@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dicoding Story</string>
+    <string name="login">Masuk</string>
+    <string name="email">Email</string>
+    <string name="password">Kata Sandi</string>
+    <string name="register">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="welcome_message">Selamat Datang di Dicoding Story!</string>
+    <string name="welcome_description">Dicoding Story adalah platform untuk berbagi cerita tentang segala hal seperti Android, iOS, Machine Learning, Cloud Computing, Front-End, Back-End, dan segala hal yang berhubungan dengan bidang IT.</string>
+    <string name="welcome_description2">Siap membuat cerita Anda sendiri?</string>
+    <string name="isEdtEmpty">Data tidak boleh kosong!</string>
+    <string name="success">Berhasil</string>
+    <string name="login_success">Berhasil Masuk!</string>
+    <string name="register_success">Berhasil Daftar!</string>
+    <string name="ok">OK</string>
+    <string name="story_created">Cerita Dibuat!</string>
+    <string name="no_media_selected">Tidak ada media yang dipilih</string>
+    <string name="password_validation">Kata sandi minimal harus terdiri dari 8 karakter</string>
+    <string name="email_validation">Email Tidak Valid</string>
+    <string name="add_story">Tambahkan Cerita</string>
+    <string name="logout">Keluar</string>
+    <string name="settings">Pengaturan</string>
+    <string name="upload">Unggah</string>
+    <string name="description">Deskripsi</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="image">Gambar</string>
+    <string name="permission_not_granted">Izin Tidak Diberikan!</string>
+    <string name="share_your_location">Bagikan Lokasi Anda</string>
+    <string name="permission_granted">Izin Diberikan!</string>
+    <string name="retry">Coba lagi</string>
+    <string name="maps">Peta</string>
+</resources>
