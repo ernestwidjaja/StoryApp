@@ -1,5 +1,5 @@
 # StoryApp
-This application is a submission for Dicoding Android Intermediate.
+This application is a submission for Dicoding Android Intermediate. Using Dicoding API
 
 ## Features
 1. Login and Register
